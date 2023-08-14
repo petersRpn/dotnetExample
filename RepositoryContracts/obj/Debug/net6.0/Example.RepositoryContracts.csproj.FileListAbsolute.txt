@@ -1,0 +1,2 @@
+C:\Users\Administrator\Downloads\AspNetCore-Harsha-main\AspNetCore-Harsha-main\18. xUnit [Advanced], Moq and Repository\16. Integration Test with Response Body\RepositoryContracts\obj\Debug\net6.0\Example.RepositoryContracts.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\AspNetCore-Harsha-main\AspNetCore-Harsha-main\18. xUnit [Advanced], Moq and Repository\16. Integration Test with Response Body\RepositoryContracts\obj\Debug\net6.0\Example.RepositoryContracts.GeneratedMSBuildEditorConfig.editorconfig

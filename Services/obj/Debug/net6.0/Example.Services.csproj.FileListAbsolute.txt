@@ -1,0 +1,5 @@
+C:\Users\Administrator\Downloads\AspNetCore-Harsha-main\AspNetCore-Harsha-main\18. xUnit [Advanced], Moq and Repository\16. Integration Test with Response Body\Services\obj\Debug\net6.0\Example.Services.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\AspNetCore-Harsha-main\AspNetCore-Harsha-main\18. xUnit [Advanced], Moq and Repository\16. Integration Test with Response Body\Services\obj\Debug\net6.0\Example.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\AspNetCore-Harsha-main\AspNetCore-Harsha-main\18. xUnit [Advanced], Moq and Repository\16. Integration Test with Response Body\Services\obj\Debug\net6.0\Example.Services.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\AspNetCore-Harsha-main\AspNetCore-Harsha-main\18. xUnit [Advanced], Moq and Repository\16. Integration Test with Response Body\Services\obj\Debug\net6.0\Example.Services.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\AspNetCore-Harsha-main\AspNetCore-Harsha-main\18. xUnit [Advanced], Moq and Repository\16. Integration Test with Response Body\Services\obj\Debug\net6.0\Example.Services.csproj.CoreCompileInputs.cache
